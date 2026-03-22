@@ -1,5 +1,7 @@
+![Dashboard Screenshot](Sa.pdf)
+
 # Sales Data Analysis Dashboard
-![Dashboard Screenshot]()
+
 ## Tools Used
 
 * Microsoft Excel (Pivot Tables, Charts)
